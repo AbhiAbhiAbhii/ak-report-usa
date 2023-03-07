@@ -148,17 +148,28 @@ function DonorsBoardOfDirectors({hide}) {
               </div>
             </div>
 
-            <div className='ways-to-engage' style={{zIndex:'10',position:'absolute',top:'30%',left:'49.6%',marginLeft:'25%',height:'30%',width:'11.6%'}}>
-                  <div style={{height:'100%',width:'100%',position:'relative'}}>
-                    <div style={{position:'absolute',top:'36%',left:'8%',height:'40%',width:'10%',cursor:'pointer'}}>
-                      <div style={{width:'100%',height:'100%'}}>
-                        <a href='https://akankshafund.org/join-the-aspire-circle/' target="_blank">&nbsp;</a>
-                      </div>
-                    </div>
-                    <div style={{position:'absolute',top:'20%',left:'20%',height:'40%',width:'10%',cursor:'pointer'}}>
-                      <a href='https://akankshafund.org/become-a-corporate-partner/' target="_blank" rel="noreferrer">&nbsp;</a>
-                    </div>
-                  </div>
+            <div className='view-finance'style={{left:'45.9%',top:'38%',height:'20%',width:'11%'}}>
+              <div style={{position:'absolute',top:'7%',left:'5%',height:'80%',width:'12.2%'}}>
+                <a href='https://akankshafund.org/join-the-aspire-circle/' target="_blank" rel="noreferrer">&nbsp;</a>
+              </div>
+              <div style={{position:'absolute',top:'7%',left:'18%',height:'80%',width:'12.2%'}}>
+                <a href='https://akankshafund.org/become-a-corporate-partner/' target="_blank" rel="noreferrer">&nbsp;</a>
+              </div>
+              <div style={{position:'absolute',top:'7%',left:'32%',height:'80%',width:'12.2%'}}>
+                <a href='https://akankshafund.org/young-professionals-network/' target="_blank" rel="noreferrer">&nbsp;</a>
+              </div>
+              <div style={{position:'absolute',top:'7%',left:'46%',height:'80%',width:'12.2%'}}>
+                <a href='https://akankshafund.org/visit-a-school/' target="_blank" rel="noreferrer">&nbsp;</a>
+              </div>
+              <div style={{position:'absolute',top:'7%',left:'58%',height:'80%',width:'12.2%'}}>
+                <a href='https://akankshafund.org/volunteer-at-a-school/' target="_blank" rel="noreferrer">&nbsp;</a>
+              </div>
+              <div style={{position:'absolute',top:'10%',left:'70.6%',height:'80%',width:'12.2%'}}>
+                <a href='https://akankshafund.org/create-a-fundraising-campaign/' target="_blank" rel="noreferrer">&nbsp;</a>
+              </div>
+              <div style={{position:'absolute',top:'10%',left:'83.6%',height:'80%',width:'12.2%'}}>
+                <a href='https://akankshafund.org/become-a-mentor/' target="_blank" rel="noreferrer">&nbsp;</a>
+              </div>
             </div>
                   {/*  */}
             <div className='view-finance' style={{height:'100%'}}>
