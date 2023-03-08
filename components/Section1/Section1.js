@@ -34,7 +34,7 @@ function Section1({hide}) {
     {
       name: 'Saurabh Taneja',
       position: 'Chief Executive Officer',
-      title: 'The Akanksha Foundation'
+      title: 'The Akanksha FoundationN'
     },
      
   ]
