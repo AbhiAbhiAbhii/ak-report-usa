@@ -47,7 +47,7 @@ function DonorsBoardOfDirectors({hide}) {
       title: 'Lorie and David Broser'
     },
     {
-      title: 'Medha and Milind Prakash'
+      title: 'Medha Vedaprakash and Milind Mehere'
     },
     {
       title: 'Nymrata Advani and Yunus Bickici'
@@ -83,7 +83,7 @@ function DonorsBoardOfDirectors({hide}) {
       title: 'Srividya Prakash and Anirudh Samsi'
     },
     {
-      title: 'Taranbir Singh and Jasmine Kaur'
+      title: 'Anonymous Donors'
     },
   ]
 
