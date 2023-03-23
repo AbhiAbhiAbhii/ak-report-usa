@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/analytics": "^0.1.11",
     "jquery": "^3.6.1",
     "next": "^12.2.5",
     "next-images": "^1.8.4",
