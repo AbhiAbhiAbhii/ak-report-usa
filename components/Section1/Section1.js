@@ -103,7 +103,7 @@ function Section1({hide}) {
             <div className="dig-2" id="digPos-2"></div>
             <div className="dialogue dialogue-min" id="dialogue-2">
                 <p>
-                But before that, here is a message from our leadership Saurabh Taneja.
+                But before that, here is a message from our leadership.
                 </p>
             </div>
             <div className="dig-3" id="digPos-3"></div>

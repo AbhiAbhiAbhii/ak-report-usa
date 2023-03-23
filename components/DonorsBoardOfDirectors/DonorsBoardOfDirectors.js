@@ -35,7 +35,7 @@ function DonorsBoardOfDirectors({hide}) {
       title: 'Girish and Shikha Bhakoo'
     },
     {
-      title: 'Himanshu Choksi'
+      title: 'Himanshu and Tejal Choksi'
     },
     {
       title: 'Kate Shoemaker and Anand Srinivasan'
@@ -85,6 +85,7 @@ function DonorsBoardOfDirectors({hide}) {
     {
       title: 'Anonymous Donors'
     },
+    
   ]
 
   return (
